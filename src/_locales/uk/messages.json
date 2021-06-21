@@ -1,0 +1,47 @@
+{
+    "manifest_description": {
+        "message": "Junk cleaner - додаток для видалення банерів та іншого сміття з відкритих сторінок."
+    },
+    "options_dialog_title": {
+        "message": "Параметри очищення"
+    },
+    "options_dialog_iframe": {
+        "message": "Вбудовані фрейми (iframe)"
+    },
+    "options_dialog_embed": {
+        "message": "Вбудовані елементи (embed)"
+    },
+    "options_dialog_object": {
+        "message": "Вбудовані об'єкти (objects)"
+    },
+    "options_dialog_applet": {
+        "message": "Вбудовані аплети (applet)"
+    },
+    "options_dialog_img": {
+        "message": "Графічні банери (img)"
+    },
+    "options_dialog_dontyoutube": {
+        "message": "Не видаляти YouTube-кліпи"
+    },
+    "options_dialog_save": {
+        "message": "Зберігти"
+    },
+    "options_dialog_close": {
+        "message": "Закрити"
+    },
+    "options_dialog_options_saved": {
+        "message": "Налаштування збережені!"
+    },
+    "options_dialog_video": {
+        "message": "Відео елементи (video)"
+    },
+    "options_dialog_audio": {
+        "message": "Аудіо елементи (audio)"
+    },
+    "default_title": {
+        "message": "Очистити поточну вкладку"
+    },
+    "clean_all_tabs_title": {
+        "message": "Очистити всі вкладки"
+    }
+}

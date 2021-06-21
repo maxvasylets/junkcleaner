@@ -1,0 +1,47 @@
+{
+    "manifest_description": {
+        "message": "Junk cleaner - is the add-on for removing banners and other junk from the opened pages."
+    },
+    "options_dialog_title": {
+        "message": "Clean up options"
+    },
+    "options_dialog_iframe": {
+        "message": "Internal frames (iframe)"
+    },
+    "options_dialog_embed": {
+        "message": "Embedded elements"
+    },
+    "options_dialog_object": {
+        "message": "Object elements"
+    },
+    "options_dialog_applet": {
+        "message": "Applet elements"
+    },
+    "options_dialog_img": {
+        "message": "Banners of standard sizes"
+    },
+    "options_dialog_dontyoutube": {
+        "message": "Don't remove YouTube videos"
+    },
+    "options_dialog_save": {
+        "message": "Save"
+    },
+    "options_dialog_close": {
+        "message": "Close"
+    },
+    "options_dialog_options_saved": {
+        "message": "Options saved"
+    },
+    "options_dialog_video": {
+        "message": "Video elements"
+    },
+    "options_dialog_audio": {
+        "message": "Audio elements"
+    },
+    "default_title": {
+        "message": "Clean up the current tab"
+    },
+    "clean_all_tabs_title": {
+        "message": "Clean up all tabs"
+    }
+}

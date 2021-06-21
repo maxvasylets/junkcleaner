@@ -1,0 +1,47 @@
+{
+    "manifest_description": {
+        "message": "Junk cleaner - надстройка для удаления баннеров и другого мусора с открытых страниц."
+    },
+    "options_dialog_title": {
+        "message": "Параметры очистки"
+    },
+    "options_dialog_iframe": {
+        "message": "Встроенные фреймы (iframe)"
+    },
+    "options_dialog_embed": {
+        "message": "Встроенные элементы (embed)"
+    },
+    "options_dialog_object": {
+        "message": "Встроенные объекты (objects)"
+    },
+    "options_dialog_applet": {
+        "message": "Встроенные апплеты (applet)"
+    },
+    "options_dialog_img": {
+        "message": "Графические баннеры (img)"
+    },
+    "options_dialog_dontyoutube": {
+        "message": "Не удалять YouTube-клипы"
+    },
+    "options_dialog_save": {
+        "message": "Сохранить"
+    },
+    "options_dialog_close": {
+        "message": "Закрыть"
+    },
+    "options_dialog_options_saved": {
+        "message": "Настройки сохранены!"
+    },
+    "options_dialog_video": {
+        "message": "Видео элементы (video)"
+    },
+    "options_dialog_audio": {
+        "message": "Аудио элементы (audio)"
+    },
+    "default_title": {
+        "message": "Очистить текущую вкладку"
+    },
+    "clean_all_tabs_title": {
+        "message": "Очистить все вкладки"
+    }
+}
